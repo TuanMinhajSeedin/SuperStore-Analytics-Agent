@@ -92,8 +92,8 @@ This application provides an interactive interface for asking analytical questio
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd agentic-analytics-app
+   git clone https://github.com/TuanMinhajSeedin/SuperStore-Analytics-Agent.git
+   cd SuperStore-Analytics-Agent
    ```
 
 2. **Install dependencies**
@@ -312,51 +312,6 @@ The application expects a CSV file with the following columns:
 | Quantity | Numeric | Quantity ordered |
 | Discount | Numeric | Discount percentage |
 
-## 🚧 Future Enhancements
-
-### Planned Features
-
-- **Multi-dataset Support**: Connect to databases and APIs
-- **Advanced Visualizations**: 3D charts, interactive dashboards
-- **Natural Language Generation**: Automated report generation
-- **Predictive Analytics**: Forecasting and trend prediction
-- **Collaborative Features**: Share insights and reports
-- **Mobile Support**: Responsive design for mobile devices
-- **Log Analytics Dashboard**: Web interface for log analysis
-- **Alert System**: Email/Slack notifications for errors
-- **Log Aggregation**: Centralized logging for multiple instances
-
-### Technical Improvements
-
-- **Caching**: Implement result caching for faster responses
-- **Async Processing**: Handle multiple concurrent requests
-- **Error Handling**: Robust error recovery and user feedback
-- **Performance Optimization**: Optimize data processing pipelines
-- **Security**: Add authentication and authorization
-- **Log Compression**: Compress old log files
-- **Log Search**: Full-text search across log files
-- **Metrics Dashboard**: Real-time performance metrics
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/your-repo/issues) page
-2. Create a new issue with detailed information
-3. Check the logs in `logs/application.logs` for error details
-4. Contact the development team
 
 ## 🙏 Acknowledgments
 
