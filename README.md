@@ -300,7 +300,8 @@ self.llm = ChatOpenAI(
 
 ## 📊 Data Schema
 
-Data File:  ``https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset``
+Data File:  
+``https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset``
 
 The application expects a CSV file with the following columns:
 
